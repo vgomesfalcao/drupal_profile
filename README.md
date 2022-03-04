@@ -22,4 +22,4 @@ Why use profiles instead of user account fields?
 * Fields may be configured to be private - thus visible only to the profile owner and administrators.
 * Profile types are displayed on the user view page, and can be configured through "Manage Display" on account settings.
 
-* Label is created together with the entity (Fork Feature update)
+* Modifiable Label is created together with the entity (Fork Feature update)
